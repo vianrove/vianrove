@@ -1,5 +1,13 @@
-### Hi there 👋
 
+# Hi there 👋
+
+![Alt Text](https://media.giphy.com/media/sZsz6AapvB4DiQeZ0i/giphy.gif)
+
+### I'm Víctor ✌️ A CS Major at the Universidad Tecnológica de Bolívar 
+
+- 🔭 I'm currently working on a project to enhance how we manage attendance at my university.
+- 💬 Ask me about UI/UX (<- love this) or music, I listen to it a lot!
+- 📫 How to reach me: @vianrove
 <!--
 **vianrove/vianrove** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -11,6 +19,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
