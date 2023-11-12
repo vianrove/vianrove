@@ -1,7 +1,7 @@
 
 # Hi there 👋
 
-<p align="center"><img src="https://media.giphy.com/media/sZsz6AapvB4DiQeZ0i/giphy.gif"></p>
+<!-- <p align="center"><img src="https://media.giphy.com/media/sZsz6AapvB4DiQeZ0i/giphy.gif"></p> -->
 
 ### I'm Víctor ✌️ A CS student at the Universidad Tecnológica de Bolívar 
 
